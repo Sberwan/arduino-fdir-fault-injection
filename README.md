@@ -2,8 +2,7 @@
 An Arduino Uno R3 adaptation of a Python-controlled fault-injection and FDIR evaluation experiment.
 
 ---------------------------------------
-## Summarized Description
----------------------------------------
+#### Summarized Description
 
 # Arduino Uno R3 FDIR Fault-Injection Evaluator
 
@@ -54,10 +53,7 @@ This is an educational fault-injection prototype. It does not simulate physical 
 
 
 -------------------------------
-
-##  Detailed Description
-
--------------------------------
+####  Detailed Description
 
 # Arduino Uno R3 FDIR Fault-Injection Evaluator
 
