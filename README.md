@@ -1,10 +1,8 @@
 # arduino-fdir-fault-injection
 An Arduino Uno R3 adaptation of a Python-controlled fault-injection and FDIR evaluation experiment.
 
----------------------------------------
-#### Summarized Description
 
-# Arduino Uno R3 FDIR Fault-Injection Evaluator
+# Arduino Uno R3 FDIR Fault-Injection Evaluator (Summarized Description)
 
 A low-cost adaptation of the Delfi-PQ FDIR evaluation methodology using two Arduino Uno R3 boards and a Python-based test harness.
 
@@ -52,10 +50,7 @@ These are results from the current controlled test setup, not radiation-test res
 This is an educational fault-injection prototype. It does not simulate physical radiation exposure and is not flight-qualified spacecraft FDIR software.
 
 
--------------------------------
-####  Detailed Description
-
-# Arduino Uno R3 FDIR Fault-Injection Evaluator
+# Arduino Uno R3 FDIR Fault-Injection Evaluator (Detailed Description)
 
 ## 1. Project Overview
 
