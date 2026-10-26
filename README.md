@@ -10,6 +10,12 @@ This project explores controlled bit-flip injection, data-integrity checks, fail
 
 **Current status:** The initial 100-trial fault-injection campaigns are complete. The secondary Arduino's hardware-reset path has been verified during startup testing. Controlled lockup recovery and broader SRAM experiments remain planned extensions.
 
+## Hardware Setup
+
+![Hardware: Two Arduino Uno R3-compatible boards (Smarza)
+
+The experiment uses one board as the primary fault-injection controller and the second as an external reset controller.](images/hardware-setup.jpg)
+
 ## Inspiration
 
 - [Delfi-PQ FDIR Evaluator](https://github.com/maGriffioen/Delfi-PQ_FDIR_Evaluator)
