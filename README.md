@@ -39,8 +39,8 @@ These are results from the current controlled test setup, not radiation-test res
 
 ## Hardware Setup
 <img src="hardware-setup.jpg" alt="Arduino FDIR hardware setup" width="600">
-![Hardware: Two Arduino Uno R3-compatible boards (Smarza)
-The experiment uses one board as the primary fault-injection controller and the second as an external reset controller.]
+Hardware: Two Arduino Uno R3-compatible boards (Smarza)
+The experiment uses one board as the primary fault-injection controller and the second as an external reset controller.
 
 ## Planned Work
 
